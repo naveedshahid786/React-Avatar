@@ -1,5 +1,5 @@
 # React Avatar
 
-### Preview
+### App Preview
 
 ![](react-avatar.JPG)
